@@ -1,5 +1,5 @@
 
-## <p align="center">Hello, my name is Luiz Eduardo and I am a UI/UX Designer at Altotech.</p>&nbsp;
+# <p align="center">Hello, my name is Luiz Eduardo and I am a UI/UX Designer at Altotech.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Tobias-fernandes&theme=radical&mode=weekly" />
@@ -13,7 +13,7 @@
 
 ## My Skills
 
-#### Main Stack:
+#### Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-ffff00?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -26,7 +26,7 @@
 
 
 
-#### Workstation Tools:
+#### Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
