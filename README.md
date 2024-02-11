@@ -1,5 +1,5 @@
 
-# <p align="center">Hello, my name is Luiz Eduardo and I am a UI/UX Designer at Altotech.</p>&nbsp;
+# <p align="center">👋Hello, my name is Luiz Eduardo and I am a UI/UX Designer at Altotech.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuizEdu-AR&theme=radical&mode=weekly" />
@@ -45,5 +45,10 @@
 <a href="https://www.linkedin.com/in/luiz-eduardo-745440292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
+
+## About me
+- 👨‍💻 **UI/UX Designer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
+- 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
+- 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
