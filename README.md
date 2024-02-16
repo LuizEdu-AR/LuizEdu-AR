@@ -1,5 +1,5 @@
 
-# <p align="center">👋Hello, my name is Luiz Eduardo and I am a UI/UX Designer at Altotech.</p>&nbsp;
+# <p align="center">👋Hello, my name is Luiz Eduardo and I am a UI/UX Designer at Altotech, and Front-End Developer!</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuizEdu-AR&theme=synthwave&mode=weekly" />
