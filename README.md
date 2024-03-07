@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E07A5F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luiz+Eduardo;Nice+to+meet+you!;UI/UX+Designer+at+Altotech,+and+Dev+Front-End!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F1E05A&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7EF8A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luiz+Eduardo;Nice+to+meet+you!;UI/UX+Designer+at+Altotech,+and+Dev+Front-End!+:%29)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuizEdu-AR&theme=calm_pink&mode=weekly" />
-<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEdu-AR&layout=compact&langs_count=7&theme=calm_pink"/>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LuizEdu-AR&theme=maroongold&mode=weekly" />
+<img loading="lazy" height="188em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEdu-AR&layout=compact&langs_count=7&theme=maroongold"/>
  </div>
  
  &nbsp;
@@ -51,4 +53,4 @@
 - 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E07A5F&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F1E05A&section=footer"/>
