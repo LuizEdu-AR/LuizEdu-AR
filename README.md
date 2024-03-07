@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F1E05A&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f6ff00&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7EF8A&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luiz+Eduardo;Nice+to+meet+you!;UI/UX+Designer+at+Altotech,+and+Dev+Front-End!+:%29)](https://git.io/typing-svg)
 
@@ -36,6 +36,13 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
+#### For the future:
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
 &nbsp;
 &nbsp;
 
@@ -53,4 +60,4 @@
 - 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F1E05A&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f6ff00&section=footer"/>
