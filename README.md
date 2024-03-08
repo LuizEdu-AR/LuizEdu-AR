@@ -66,6 +66,8 @@
 - 👨‍💻 **UI/UX Designer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
 - 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
-- With a natural flair for sociability, I effortlessly foster harmonious connections in any environment. Coupled with a keen sense of responsibility, I diligently attend to schedules and tasks, ensuring efficiency and reliability. As I set my sights on embarking into the dynamic realm of Front-End development, I envision weaving my interpersonal skills seamlessly into collaborative projects, while also harboring aspirations of delving into the intricate world of Back-End systems, thus sculpting a versatile and impactful career trajectory.
+- With a natural flair for sociability, I effortlessly foster harmonious connections in any environment.
+- Coupled with a keen sense of responsibility, I diligently attend to schedules and tasks, ensuring efficiency and reliability.
+- As I set my sights on embarking into the dynamic realm of Front-End development, I envision weaving my interpersonal skills seamlessly into collaborative projects, while also harboring aspirations of delving into the intricate world of Back-End systems, thus sculpting a versatile and impactful career trajectory.
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=43FFD1&section=footer"/>
