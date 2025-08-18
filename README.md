@@ -65,8 +65,8 @@
 
 ## About me
 - 👨‍💻 **UI/UX Designer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
-- � **Member** of [Computational Intelligence Laboratory (CILab)](https://cilab.ufersa.edu.br/);
-- �👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
+- 👨‍💻 **Member** of [Computational Intelligence Laboratory (CILab)](https://cilab.ufersa.edu.br/);
+- 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
 - 🌐 **Portfolio**: [www.luizeduardo.dev.br](https://www.luizeduardo.dev.br);
 - With a natural flair for sociability, I effortlessly foster harmonious connections in any environment.
