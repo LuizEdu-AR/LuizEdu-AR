@@ -58,14 +58,17 @@
 <div> 
 <a href="https://www.instagram.com/luizeduardoar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:luizedu.btiufersa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luiz-eduardo-745440292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/luiz-eduardo-745440292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.luizeduardo.dev.br" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-43FFD1?style=for-the-badge&logo=firefox&logoColor=white" target="_blank"></a>
 
 </div>&nbsp;&nbsp;
 
 ## About me
 - 👨‍💻 **UI/UX Designer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
-- 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
+- � **Member** of [Computational Intelligence Laboratory (CILab)](https://cilab.ufersa.edu.br/);
+- �👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
+- 🌐 **Portfolio**: [www.luizeduardo.dev.br](https://www.luizeduardo.dev.br);
 - With a natural flair for sociability, I effortlessly foster harmonious connections in any environment.
 - Coupled with a keen sense of responsibility, I diligently attend to schedules and tasks, ensuring efficiency and reliability.
 - As I set my sights on embarking into the dynamic realm of Front-End development, I envision weaving my interpersonal skills seamlessly into collaborative projects, while also harboring aspirations of delving into the intricate world of Back-End systems, thus sculpting a versatile and impactful career trajectory.
