@@ -2,12 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=43FFD1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luiz+Eduardo;Nice+to+meet+you!;UI/UX+Designer+at+Altotech,+and+Dev+Front-End!+:%29)](https://git.io/typing-svg)
 
- 
- 
  &nbsp;
  &nbsp;
 
-
+## **Portfolio**: [www.luizeduardo.dev.br](https://www.luizeduardo.dev.br)
 
 ## My Skills
 
@@ -65,7 +63,6 @@
 - 👨‍💻 **Member** of [Computational Intelligence Laboratory (CILab)](https://cilab.ufersa.edu.br/);
 - 👨‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👨‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
-- 🌐 **Portfolio**: [www.luizeduardo.dev.br](https://www.luizeduardo.dev.br);
 - With a natural flair for sociability, I effortlessly foster harmonious connections in any environment.
 - Coupled with a keen sense of responsibility, I diligently attend to schedules and tasks, ensuring efficiency and reliability.
 - As I set my sights on embarking into the dynamic realm of Front-End development, I envision weaving my interpersonal skills seamlessly into collaborative projects, while also harboring aspirations of delving into the intricate world of Back-End systems, thus sculpting a versatile and impactful career trajectory.
